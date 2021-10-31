@@ -1,3 +1,14 @@
+## Link Para o front-end:
+
+https://github.com/Lucas-Duarte-94/desafio-globo-front-end
+
+### Rotas da API:
+
+Screenshot das rotas no Postman.
+
+![back-end-globo](https://user-images.githubusercontent.com/57713413/139604570-01cfd435-4e58-42fe-94ee-bd2a2a106630.png)
+
+
 ## Desafio
 
 Precisamos desenvolver uma ferramenta para criação de Cards de conteúdo esportivos (Insights).
